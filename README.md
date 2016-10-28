@@ -48,7 +48,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ## บันทึกผลการทดลอง
 
-![]https://github.com/JUBJIBPIYAPATH/LAB-01/blob/master/0001.PNG?raw=true
+![](https://github.com/JUBJIBPIYAPATH/LAB-01/blob/master/0001.PNG?raw=true)
 ```57030192 ปิยพัทธ์ เพริศแก้ว
 ```
 
