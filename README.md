@@ -48,8 +48,9 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
 ## บันทึกผลการทดลอง
 
- [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
- เหตุผลที่ต้องแจ้ง เพราะส่วนใหญ่ไม่ได้ใช้ชื่อจริง + รหัสนักศึกษา ในการสมัคร github
+![]https://github.com/JUBJIBPIYAPATH/LAB-01/blob/master/0001.PNG?raw=true
+```57030192 ปิยพัทธ์ เพริศแก้ว
+```
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
